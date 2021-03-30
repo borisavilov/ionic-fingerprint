@@ -18,6 +18,13 @@ Most of the modern Android and iOS devices come with Fingerprint sensors to secu
     
     $ npm install @ionic-native/core
 
+## Implementation
+```
+app.module.ts
+home.page.html
+home.page.html
+```
+
 ###  Import Plugin Class in App Module
 - app.module.ts
 // app.module.ts
