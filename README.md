@@ -21,7 +21,7 @@ Most of the modern Android and iOS devices come with Fingerprint sensors to secu
 ## Implementation
 ```
 app.module.ts
-home.page.html
+home.page.ts
 home.page.html
 ```
 
